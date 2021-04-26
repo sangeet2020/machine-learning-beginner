@@ -1,1 +1,1 @@
-# machine-learning-beginner
+# ELEC 3701- Machine Learning
